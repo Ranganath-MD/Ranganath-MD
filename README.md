@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Ranganath 👨‍💻🐱‍👤
 
-<div  style="color: #f8f8f8;">
-  
-</div>
-
 I'm a software engineer who is passionate about making websites, Mobile applications with the technology i love. Some technologies I enjoy working with include ReactJS, Gatsby, NodeJs, React Native. 
 
 🚀 I'm currently working on Gatsby.
@@ -15,4 +11,4 @@ I'm a software engineer who is passionate about making websites, Mobile applicat
 
 ### Checklist for 2020
 
-`Next.js` `Graphql` `build cool stuff with React` 
+`Next.js` `Graphql` `AWS` `build cool stuff with React` 
