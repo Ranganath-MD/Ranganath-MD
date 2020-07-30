@@ -4,11 +4,11 @@ I'm a software engineer who is passionate about making websites, Mobile applicat
 
 🚀 I'm currently working on Gatsby.
 
-🐱‍👤 I'm currently learning Next.js, Framer motion
+🐱‍👤 I'm currently learning Next.js
 
 ⚽ I love to work on Graphql and Apollo
 
 
 ### Checklist for 2020
 
-`Next.js` `Graphql` `AWS` `build cool stuff with React` 
+`Next.js` `Graphql`  `build cool stuff with React` 
