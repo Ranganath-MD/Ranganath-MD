@@ -11,6 +11,6 @@
 
 #### 🚀 I'm currently working in React with Typescript.
 
-#### 🐱‍👤 I'm currently learning Next.js, Mobx.
+#### 🐱‍👤 I'm currently building crowdfunding application, small piece of work here https://sahaaya-staging.web.app
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranganath-MD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
